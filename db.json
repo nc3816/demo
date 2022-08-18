@@ -1,4 +1,4 @@
-{
+[
   {category: "SOURCES", subTitle: "Java", name: "Java", img: logo},
   {category: "SOURCES", subTitle: "Javascript", name: "Javascript34", img: logo},
   {category: "SOURCES", subTitle: "Javascript", name: "Javascript25", img: logo},
@@ -7,4 +7,4 @@
   {category: "DESTINATIONS", subTitle: "Receiving from Javascript24", name: "Amazon S3", img: logo},
   {category: "CATALOG", subTitle: "", name: "java", img: logo},
   {category: "CATALOG", subTitle: "", name: "javascript", img: logo},
-}
+]
