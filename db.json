@@ -1,9 +1,41 @@
-{category: "SOURCES", subTitle: "Java", name: "Java", img:""},
-{category: "SOURCES", subTitle: "Javascript", name: "Javascript34", img:""},
-{category: "SOURCES", subTitle: "Javascript", name: "Javascript25", img:""},
-{category: "DESTINATIONS", subTitle: "Receiving from Java", name: "Google Analytics", img:""},
-{category: "DESTINATIONS", subTitle: "Receiving from Javascript25", name: "Amplitude", img: ""},
-{category: "DESTINATIONS", subTitle: "Receiving from Javascript24", name: "Amazon S3", img:""},
-{category: "CATALOG", subTitle: "", name: "java", img:""},
-{category: "CATALOG", subTitle: "", name: "javascript", img:""},
-
+[{
+	"category": "SOURCES",
+	"subTitle": "Java",
+	"name": "Java",
+	"img": ""
+}, {
+	"category": "SOURCES",
+	"subTitle": "Javascript",
+	"name": "Javascript34",
+	"img": ""
+}, {
+	"category": "SOURCES",
+	"subTitle": "Javascript",
+	"name": "Javascript25",
+	"img": ""
+}, {
+	"category": "DESTINATIONS",
+	"subTitle": "Receiving from Java",
+	"name": "Google Analytics",
+	"img": ""
+}, {
+	"category": "DESTINATIONS",
+	"subTitle": "Receiving from Javascript25",
+	"name": "Amplitude",
+	"img": ""
+}, {
+	"category": "DESTINATIONS",
+	"subTitle": "Receiving from Javascript24",
+	"name": "Amazon S3",
+	"img": ""
+}, {
+	"category": "CATALOG",
+	"subTitle": "",
+	"name": "java",
+	"img": ""
+}, {
+	"category": "CATALOG",
+	"subTitle": "",
+	"name": "javascript",
+	"img": ""
+}]
